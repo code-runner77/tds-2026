@@ -45,8 +45,8 @@
       "inventoryValue": 123173.34
     },
     "sports": {
-      "count": 6,
-      "inventoryValue": 123173.34
+      "count": 0,
+      "inventoryValue": 0
     }
   }
 }
